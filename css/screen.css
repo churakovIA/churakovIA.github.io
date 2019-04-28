@@ -1,0 +1,30 @@
+
+#cv {
+    margin: 0 auto;
+    width: 900px;
+}
+
+span.cls_000{font-family:Arial,serif;font-size:26.1px;color:rgb(33,33,33);font-weight:normal;font-style:normal;text-decoration: none}
+.cls_001{font-family:Arial,serif;font-size:16px;color:rgb(33,33,33);padding:2mm 0 0 0}
+span.cls_002{font-family:Arial,serif;font-size:14px;color:rgb(33,33,33);font-style:italic;}
+span.cls_003{font-family:Arial,serif;font-size:12px;color:rgb(190,190,190);text-align: left}
+span.cls_005{font-family:Arial,serif;font-size:13px;color:rgb(33,33,33);font-weight:normal;font-style:normal;text-decoration: none;text-align: justify;}
+span.cls_010{font-family:Arial,serif;font-size:12.1px;color:rgb(190,190,190);font-weight:normal;font-style:normal;text-decoration: none}
+span.cls_701{font-family:Arial,serif;font-size:16px;color:#AEAEAE}
+span.cls_500{font-family:Arial,serif;font-size:14px;color:rgb(33,33,33)}
+div.cls_701{border-bottom:solid #D8D8D8 1.0pt;padding:0.5cm 0 0 0}
+td.cls_701{width:900pt}
+
+td.period{width: 110px; vertical-align: top}
+
+p{margin-top: 5px;margin-bottom: 1px;}
+
+/* Header
+
+-------------------------------------------------------------- */
+
+#header { margin-top: 20px; }
+
+#header .tabs { border-bottom: 1px solid #ddd; }
+#header .tabs li { margin-right: 1px; }
+#header .tabs a { padding: 5px 15px; background: #ddd; color: #666; text-decoration: none; }

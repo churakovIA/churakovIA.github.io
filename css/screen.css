@@ -28,3 +28,18 @@ p{margin-top: 5px;margin-bottom: 1px;}
 #header .tabs { border-bottom: 1px solid #ddd; }
 #header .tabs li { margin-right: 1px; }
 #header .tabs a { padding: 5px 15px; background: #ddd; color: #666; text-decoration: none; }
+
+a[href^="mailto:"]{
+    padding-left: 20px;
+    background: url(../img/email.png) no-repeat center left;
+}
+
+a[href^="skype:"]{
+    padding-left: 20px;
+    background: url(../img/skype.png) no-repeat center left;
+}
+
+a[href^="https://github.com"] {
+    padding-left: 20px !important;
+    background: url(../img/github.png) no-repeat center left;
+}
